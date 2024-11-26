@@ -383,6 +383,14 @@ http://pracnet.net/tls
 85% off ($297 down to $50) with code: `BFCM2024` \
 Deal ends: 6th December
 
+**Level Effect** - Blue with Virtual SOC, Data Science/AI, Detection Engineering Training (Self-Paced/Live)
+https://training.leveleffect.com
+
+20% off courses and certifications, bundled discounts up to 25%. (NO COUPON REQUIRED)
+First ever sale includes CDA course worth 59 credits to a Bachelor's of Science at Purdue Global.
+
+Deal ends: 9th 2024
+
 ## Practical Labs
 
 **Pwnedlabs** - Real-World Cloud Security Labs \
